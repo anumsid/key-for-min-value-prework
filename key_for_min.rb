@@ -15,4 +15,5 @@ def key_for_min_value(name_hash)
     end
    min_key
 end
- {ace: 2, bace: 3, cace: 5}
+ xs
+{:blake => 500, :ashley => 2, :adam => 1}
